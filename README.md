@@ -1,207 +1,105 @@
-## Hi there 👋
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title> Dhairy Jain </title> | GitHub Portfolio</title>
+<h1 align="center">Hi 👋, I'm Dhairy Jain</h1>
+<h3 align="center">B.Tech CSE (Artificial Intelligence) Student | Swaminarayan University | Aspiring Software & AI Developer</h3>
 
-<style>
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:Arial, Helvetica, sans-serif;
-}
-
-body{
-    background:#0d1117;
-    color:white;
-}
-
-.container{
-    width:90%;
-    max-width:1100px;
-    margin:auto;
-}
-
-header{
-    text-align:center;
-    padding:60px 20px;
-}
-
-img{
-    width:170px;
-    height:170px;
-    border-radius:50%;
-    border:5px solid #58a6ff;
-}
-
-h1{
-    margin-top:20px;
-    font-size:42px;
-}
-
-.subtitle{
-    color:#58a6ff;
-    margin:10px 0;
-    font-size:20px;
-}
-
-.bio{
-    max-width:700px;
-    margin:20px auto;
-    color:#c9d1d9;
-}
-
-.button{
-    display:inline-block;
-    margin-top:20px;
-    padding:12px 28px;
-    background:#238636;
-    color:white;
-    text-decoration:none;
-    border-radius:8px;
-}
-
-section{
-    padding:50px 0;
-}
-
-h2{
-    text-align:center;
-    color:#58a6ff;
-    margin-bottom:30px;
-}
-
-.grid{
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
-    gap:20px;
-}
-
-.card{
-    background:#161b22;
-    padding:20px;
-    text-align:center;
-    border-radius:10px;
-}
-
-.project{
-    background:#161b22;
-    padding:20px;
-    border-radius:10px;
-}
-
-.project h3{
-    color:#58a6ff;
-    margin-bottom:10px;
-}
-
-footer{
-    text-align:center;
-    padding:20px;
-    background:#161b22;
-    color:#8b949e;
-}
-</style>
-
-</head>
-<body>
-
-<header>
-
-<img src="profile.jpg" alt="Profile Picture">
-
-<h2>Dhairy Jain</h2>
-
-<p class="subtitle">
-Frontend Developer | UI/UX Designer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+Student;Learning+Full+Stack+Development;Building+Projects+Every+Day" />
 </p>
 
-<p class="bio">
-I am a passionate Full Stack Developer with experience in HTML, CSS,
-JavaScript, React, Node.js and MongoDB. I love building modern,
-responsive web applications and learning new technologies.
+---
+
+## 👨‍💻 About Me
+
+🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence)  
+🏫 Swaminarayan University, Ahmedabad, Gujarat
+
+💡 Passionate about solving real-world problems through technology and building impactful software.
+
+🌱 Currently Learning
+- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning
+- Full Stack Web Development
+- Git & GitHub
+
+🎯 Career Goal
+> To become a skilled Software Engineer and AI Developer by building practical projects and continuously improving my problem-solving skills.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📚 Current Focus
+
+✔ Data Structures & Algorithms
+
+✔ Artificial Intelligence
+
+✔ Full Stack Development
+
+✔ Open Source Contribution
+
+✔ Building Strong GitHub Portfolio
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhairyjaincg-tech&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyjaincg-tech&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<a href="https://github.com/dhairyjaincg-tech" class="button">
-Visit GitHub
-</a>
+---
 
-</header>
+## 🔥 GitHub Streak
 
-<div class="container">
+<p align="center">
 
-<section>
+<img src="https://streak-stats.demolab.com?user=dhairyjaincg-tech&theme=tokyonight"/>
 
-<h2>Skills</h2>
+</p>
 
-<div class="grid">
-<div class="card">HTML5</div>
-<div class="card">CSS3</div>
-<div class="card">JavaScript</div>
-<div class="card">React</div>
-<div class="card">Node.js</div>
-<div class="card">Python</div>
-<div class="card">Git</div>
-<div class="card">GitHub</div>
-</div>
+---
 
-</section>
+## 📫 Connect With Me
 
-<section>
+📧 **Email:** dhairy.jain.cg@gmail.com
 
-<h2>Featured Projects</h2>
+💼 **LinkedIn:** https://www.linkedin.com/in/dhairy-jain-a93128427
 
-<div class="grid">
+📍 Ahmedabad, Gujarat, India
 
-<div class="project">
-<h3>Portfolio Website</h3>
-<p>Responsive personal portfolio built with HTML, CSS and JavaScript.</p>
-</div>
+---
 
-<div class="project">
-<h3>Task Manager</h3>
-<p>Full-stack task management application with authentication.</p>
-</div>
+## 💬 Quote
 
-<div class="project">
-<h3>Weather App</h3>
-<p>Weather forecast application using REST APIs.</p>
-</div>
+> "Consistency beats talent when talent doesn't stay consistent."
 
-</div>
+---
 
-</section>
+<p align="center">
 
-<section>
+⭐ Thanks for visiting my profile!  
+Let's learn, build and grow together.
 
-<h2>Contact</h2>
-
-<div class="grid">
-
-<div class="card">
-📧 https://mail.google.com/
-</div>
-
-<div class="card">
-💼https://www.linkedin.com/in/dhairy-jain-a93128427/
-</div>
-
-<div class="card">
-🐙 https://github.com/dhairyjaincg-tech
-</div>
-
-</div>
-
-</section>
-
-</div>
-
-<footer>
-© 2026 Dhairy Jain | Designed for GitHub Portfolio
-</footer>
-
-</body>
-</html>
+</p>
