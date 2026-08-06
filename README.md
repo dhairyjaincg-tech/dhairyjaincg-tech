@@ -69,17 +69,8 @@ Become a Software Engineer at a leading tech company while building impactful AI
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
----
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhairyjaincg-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyjaincg-tech&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -91,15 +82,9 @@ Become a Software Engineer at a leading tech company while building impactful AI
 
 </p>
 
----
 
-# 🏆 GitHub Trophy
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhairyjaincg-tech&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
 
 ---
 
